@@ -1,0 +1,6 @@
+*/__pycache__/*
+.idea/
+.idea/dictionaries/danielmsheehan.xml
+project/source_data/__pycache__/
+project/tools/__pycache__/
+data/
